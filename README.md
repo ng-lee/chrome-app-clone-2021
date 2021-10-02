@@ -1,5 +1,5 @@
-# chrome-app-clone-2021
+# Chrome App Clone 2021
  
-Codes for Nomad Coders Course!
+Vanilla JS Course from Nomad Coders
 
-Language: HTML, CSS
+2021 Update!
