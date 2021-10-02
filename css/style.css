@@ -1,0 +1,11 @@
+.hidden {
+  display: none;
+}
+
+#bg {
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
