@@ -1,5 +1,7 @@
-# Chrome App(Momentum) Clone 2021
+# Chrome App Clone 2021
  
-Vanilla JS Course from Nomad Coders
+Cloning Chrome App(Momentum) using Vanilla JS
+ 
+by Nomad Coders
 
 2021 Update!
